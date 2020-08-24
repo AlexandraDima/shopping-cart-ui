@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "font-awesome/css/font-awesome.min.css";
+import "fontawesome-4.7/css/font-awesome.min.css";
 import Cart from './Components/Cart';
 import Products from './Components/Products';
 import Cargo_Train from './Images/Cargo_Train.png'; 

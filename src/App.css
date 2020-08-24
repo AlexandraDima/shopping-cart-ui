@@ -46,8 +46,8 @@
 .custom-dialog {
   width:35% !important; 
   float: right;
+  display: flex;
   height: 100vh !important;
-  position: fixed;
   margin: 0 auto;
 }
 .modal-dialog.custom-dialog.modal-lg {
